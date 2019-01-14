@@ -1,5 +1,5 @@
 {
-    "name": "medariox/scrapeer",
+    "name": "Hukuta/scrapeer",
     "description": "A tiny PHP library that lets you scrape HTTP(S) and UDP trackers for torrent information.",
     "keywords": ["udp", "torrent"],
     "homepage": "https://github.com/medariox/scrapeer",
@@ -16,5 +16,11 @@
     },
     "autoload": {
         "psr-0": {"Scrapeer": ""}
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.5.4-dev"
+        }
     }
 }
