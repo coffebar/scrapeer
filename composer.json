@@ -1,5 +1,5 @@
 {
-    "name": "Hukuta/scrapeer",
+    "name": "hukuta/scrapeer",
     "description": "A tiny PHP library that lets you scrape HTTP(S) and UDP trackers for torrent information.",
     "keywords": ["udp", "torrent"],
     "homepage": "https://github.com/medariox/scrapeer",
