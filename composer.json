@@ -4,7 +4,7 @@
     "keywords": ["udp", "torrent"],
     "homepage": "https://github.com/medariox/scrapeer",
     "type": "library",
-    "license": "CC BY-SA 3.0",
+    "license": "CC-BY-SA-3.0",
     "authors": [
         {
             "name": "Dario",
